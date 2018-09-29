@@ -14,6 +14,7 @@ git checkout -b master-first1
 git checkout master-first1
 git branch
 vi test1.yml
+git add test1.yml
 git commit -m "firstcommit"
 git push -u origin master-first1
 ###############################Git Branch merger##############################################################
